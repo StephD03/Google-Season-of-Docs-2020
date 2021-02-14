@@ -52,7 +52,7 @@ This week I will go over the activities from the Notion board and attempt to hav
     - [x]  `[DONE]` Complete the Roles and responsibilities matrix.
         - [Roles and responsibilities matrix](https://www.notion.so/70ece4f60dcf4e04bbc2c4091c712851)
 
-**WEEK 4 - Septmenber 7th - September 11th**
+**WEEK 4 - September 7th - September 11th**
 
 This week is the last week from the community bonding period week.  I will complete items that I have pending in the community bonding board and will share the R&R matrix and this documentation for awareness and feedback. 
 
